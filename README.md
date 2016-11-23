@@ -13,7 +13,7 @@ go get github.com/skyrunner2012/validation
 package main
 
 import (
-    "validation"
+    "github.com/skyrunner2012/validation"
     "fmt"
 )
 
